@@ -19,3 +19,11 @@ DOODLE-SEARCH/
 
  -   Clean and minimalist user interface
 
+# How to Use
+1.Clone the repository:
+
+  git clone https://github.com/alkashivareddi/DOODLE-SEARCH.git
+
+2.Navigate to the project folder:
+
+cd DOODLE-SEARCH
