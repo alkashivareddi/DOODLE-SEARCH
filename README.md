@@ -27,3 +27,6 @@ DOODLE-SEARCH/
 2.Navigate to the project folder:
 
 cd DOODLE-SEARCH
+# License
+This project is open-source and available under the MIT License.
+
