@@ -3,18 +3,19 @@ DOODLE-SEARCH is a web-based application that allows users to draw simple doodle
 
 
 # Project Structure
-
+```
 DOODLE-SEARCH/
- index.html           - Main HTML file
- style.css            - CSS styling
- script.js            - JavaScript functionality
- assets/              - Images and other assets
+├── index.html           # Main HTML file
+├── style.css            # CSS styling
+├── script.js            # JavaScript functionality
+└── assets/              # Images and other assets
+```
 # Features
-Interactive canvas for drawing doodles
+-Interactive canvas for drawing doodles
 
-Responsive design suitable for various devices
+-Responsive design suitable for various devices
 
-Sketch-based image search functionality
+-Sketch-based image search functionality
 
 Clean and minimalist user interface
 
