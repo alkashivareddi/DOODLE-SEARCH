@@ -11,11 +11,11 @@ DOODLE-SEARCH/
 └── assets/              # Images and other assets
 ```
 # Features
--Interactive canvas for drawing doodles
+ -  Interactive canvas for drawing doodles
 
--Responsive design suitable for various devices
+ -  Responsive design suitable for various devices
 
--Sketch-based image search functionality
+ -  Sketch-based image search functionality
 
 Clean and minimalist user interface
 
