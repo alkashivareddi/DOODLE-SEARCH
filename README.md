@@ -3,14 +3,12 @@ DOODLE-SEARCH is a web-based application that allows users to draw simple doodle
 GitHub
 
 # Project Structure
-bash
-Copy
-Edit
+
 DOODLE-SEARCH/
-├── index.html           # Main HTML file
-├── style.css            # CSS styling
-├── script.js            # JavaScript functionality
-└── assets/              # Images and other assets
+ index.html           # Main HTML file
+ style.css            # CSS styling
+ script.js            # JavaScript functionality
+ assets/              # Images and other assets
 # Features
 Interactive canvas for drawing doodles
 
