@@ -1,4 +1,4 @@
-# DOODLE-SEARCH
+ # DOODLE-SEARCH
 DOODLE-SEARCH is a web-based application that allows users to draw simple doodles and perform image searches based on their sketches. Built using HTML and CSS, this project demonstrates a clean and responsive design for sketch-based image retrieval.
 
 
@@ -17,5 +17,5 @@ DOODLE-SEARCH/
 
  -  Sketch-based image search functionality
 
-Clean and minimalist user interface
+ -   Clean and minimalist user interface
 
