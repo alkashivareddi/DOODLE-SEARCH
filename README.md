@@ -5,10 +5,10 @@ GitHub
 # Project Structure
 
 DOODLE-SEARCH/
- index.html           # Main HTML file
- style.css            # CSS styling
- script.js            # JavaScript functionality
- assets/              # Images and other assets
+ index.html           - Main HTML file
+ style.css            - CSS styling
+ script.js            - JavaScript functionality
+ assets/              - Images and other assets
 # Features
 Interactive canvas for drawing doodles
 
